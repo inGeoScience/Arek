@@ -22,3 +22,7 @@
 .emotional_img:hover{
     opacity: 1;
 }
+
+.emotional_img:hover+.site-content{
+    background-color: white;
+}
