@@ -1,0 +1,14 @@
+.site-header {
+	padding-left: 96px;
+	padding-right: 96px;
+	margin-left: -96px;
+	margin-right: -96px;
+	/*第一个主题加margin-top:50px;*/
+}
+
+.site-content {
+	padding-left: 96px;
+	padding-right: 96px;
+	margin-left: -96px;
+	margin-right: -96px;
+}
