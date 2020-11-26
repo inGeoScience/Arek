@@ -35,3 +35,11 @@
     margin-top: 50px;
     border-radius: 25px 25px 0 0;
 }
+
+.integrity{
+    box-shadow: 0px 0px 50px 0px #666;
+    padding-left: 96px;
+	padding-right: 96px;
+	margin-left: -96px;
+	margin-right: -96px;
+}
