@@ -23,6 +23,15 @@
     opacity: 1;
 }
 
-.emotional_img:hover+.site-content{
+.emotional_img:hover ~ .site-content{
     background-color: white;
+    opacity: .88;
+    border-radius: 0 0 25px 25px;
+}
+
+.emotional_img:hover ~ .site-header{
+    background-color: white;
+    opacity: .88;
+    margin-top: 50px;
+    border-radius: 25px 25px 0 0;
 }
