@@ -23,20 +23,20 @@
     opacity: 1;
 }
 
-.emotional_img:hover ~ .integrity > .site-content{
+.emotional_img:hover ~ #integrity > .site-content{
 }
 
-.emotional_img:hover ~ .integrity > .site-header{
+.emotional_img:hover ~ #integrity > .site-header{
     
 }
 
-.emotional_img:hover ~ .integrity{
+.emotional_img:hover ~ #integrity{
     box-shadow: 0px 0px 50px 0px #666;
     background-color: white;
     opacity: .88;
 }
 
-.integrity{
+#integrity{
     padding-left: 96px;
 	padding-right: 96px;
 	margin-left: -96px;
