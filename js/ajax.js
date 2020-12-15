@@ -161,6 +161,8 @@ function ajaxreload_code() {
     hljs.highlightBlock(el);
     });
     
+    loadScript("https://h5ai.index.city/ajaxWpdiscuz.js");
+    
 }
 function ajaxclick_code(thiss) {
     jQuery('ul.nav li').each(function() {

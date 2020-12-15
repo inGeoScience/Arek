@@ -13,24 +13,24 @@
 	margin-right: -96px;
 }
 
-.emotional_img{
+#emotional_img{
     transition: 0.3s; 
     -webkit-transition: .3s; 
     -moz-transition: .3s; 
 }
 
-.emotional_img:hover{
+#emotional_img:hover{
     opacity: 1;
 }
 
-.emotional_img:hover ~ #integrity > .site-content{
+#emotional_img:hover ~ #integrity > .site-content{
 }
 
-.emotional_img:hover ~ #integrity > .site-header{
+#emotional_img:hover ~ #integrity > .site-header{
     
 }
 
-.emotional_img:hover ~ #integrity{
+#emotional_img:hover ~ #integrity{
     box-shadow: 0px 0px 50px 0px #666;
     background-color: white;
     opacity: .88;
