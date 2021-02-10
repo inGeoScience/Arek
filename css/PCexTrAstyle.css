@@ -57,3 +57,7 @@
 .logodiv{
     padding-top: 6px;
 }
+
+.single-post .entry-content{
+    font-family: SimSun;
+}
