@@ -61,3 +61,10 @@
 .single-post .entry-content{
     font-family: SimSun;
 }
+
+/* contentPic for PC */
+.contentPic img {
+	max-width:666px;
+	border-radius:5px;
+	box-shadow:2px 2px 9px 0px rgba(0,0,0,0.4);
+}
