@@ -7,3 +7,8 @@
   font-style: normal;
   font-display： swap;
 }
+
+@font-face {
+  font-family: "SimSun";
+  src: url("SimSun.ttf") format("ttf");
+}
