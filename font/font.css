@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 @font-face {
-  font-family: "Zpix";
-  src: url("zpix.ttf") format("ttf");
+  font-family: Zpix;
+  src: url(zpix.ttf);
   font-weight: normal;
   font-style: normal;
   font-display： swap;
 }
 
 @font-face {
-  font-family: "SimSun";
-  src: url("SimSun.ttf") format("ttf");
+  font-family: SimSun;
+  src: url(SimSun.ttf);
 }
